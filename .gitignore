@@ -127,3 +127,4 @@ dist
 
 #ignoreing lock file
 server/package-lock.json
+client/package-lock.json
